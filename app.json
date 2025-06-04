@@ -17,7 +17,7 @@
     },
     "BOT_USERNAME": {
       "description": "",
-      "required": true
+      "required": false
     },
     "OWNER_ID": {
       "description": "",
@@ -29,7 +29,7 @@
     },
     "CHANNEL_ID": {
       "description": "",
-      "required": true
+      "required": flase
     },
     "MONGO_URL": {
       "description": "",
