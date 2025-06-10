@@ -29,7 +29,7 @@
     },
     "CHANNEL_ID": {
       "description": "",
-      "required": flase
+      "required": true
     },
     "MONGO_URL": {
       "description": "",
